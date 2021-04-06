@@ -1,0 +1,16 @@
+G:\DevEducation\CSharp\DigitsToWords\DigitsToWords\bin\Debug\net5.0\DigitsToWords.exe
+G:\DevEducation\CSharp\DigitsToWords\DigitsToWords\bin\Debug\net5.0\DigitsToWords.deps.json
+G:\DevEducation\CSharp\DigitsToWords\DigitsToWords\bin\Debug\net5.0\DigitsToWords.runtimeconfig.json
+G:\DevEducation\CSharp\DigitsToWords\DigitsToWords\bin\Debug\net5.0\DigitsToWords.runtimeconfig.dev.json
+G:\DevEducation\CSharp\DigitsToWords\DigitsToWords\bin\Debug\net5.0\DigitsToWords.dll
+G:\DevEducation\CSharp\DigitsToWords\DigitsToWords\bin\Debug\net5.0\ref\DigitsToWords.dll
+G:\DevEducation\CSharp\DigitsToWords\DigitsToWords\bin\Debug\net5.0\DigitsToWords.pdb
+G:\DevEducation\CSharp\DigitsToWords\DigitsToWords\obj\Debug\net5.0\DigitsToWords.csprojAssemblyReference.cache
+G:\DevEducation\CSharp\DigitsToWords\DigitsToWords\obj\Debug\net5.0\DigitsToWords.GeneratedMSBuildEditorConfig.editorconfig
+G:\DevEducation\CSharp\DigitsToWords\DigitsToWords\obj\Debug\net5.0\DigitsToWords.AssemblyInfoInputs.cache
+G:\DevEducation\CSharp\DigitsToWords\DigitsToWords\obj\Debug\net5.0\DigitsToWords.AssemblyInfo.cs
+G:\DevEducation\CSharp\DigitsToWords\DigitsToWords\obj\Debug\net5.0\DigitsToWords.csproj.CoreCompileInputs.cache
+G:\DevEducation\CSharp\DigitsToWords\DigitsToWords\obj\Debug\net5.0\DigitsToWords.dll
+G:\DevEducation\CSharp\DigitsToWords\DigitsToWords\obj\Debug\net5.0\ref\DigitsToWords.dll
+G:\DevEducation\CSharp\DigitsToWords\DigitsToWords\obj\Debug\net5.0\DigitsToWords.pdb
+G:\DevEducation\CSharp\DigitsToWords\DigitsToWords\obj\Debug\net5.0\DigitsToWords.genruntimeconfig.cache
